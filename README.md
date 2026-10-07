@@ -1,9 +1,9 @@
-Proiectul SalonCosmetica este o aplicație dedicată gestionării activităților dintr-un salon de înfrumusețare și cuprinde următoarele funcționalități principale:
+The SalonCosmetica project is an application dedicated to managing beauty salon activities, featuring the following core functionalities:
 
-Gestionarea programărilor și a clienților: Permite înregistrarea clienților, programarea ședințelor și urmărirea istoricului vizitelor acestora în salon.
+Appointment and Client Management: Allows client registration, scheduling sessions, and tracking their visit history at the salon.
 
-Administrarea serviciilor și a pachetelor: Gestionează gama de tratamente cosmetice și servicii oferite (cum ar fi coafură, manichiură, tratamente faciale sau corporale) împreună cu tarifele lor.
+Service and Package Administration: Manages the range of cosmetic treatments and services offered (such as hair styling, manicures, facial or body treatments) along with their pricing.
 
-Evidența personalului: Monitorizează activitatea specialiștilor sau a esteticienilor și programul de lucru al acestora.
+Staff Tracking: Monitors the activity and work schedules of specialists and estheticians.
 
-Organizarea fluxului operațional: Asigură o structură clară pentru optimizarea activităților zilnice și gestionarea eficientă a resurselor salonului.
+Workflow Organization: Ensures a clear structure for optimizing daily operations and efficiently managing salon resources.
